@@ -33,8 +33,7 @@ This is a simple QR code project in which we have used HTML and CSS. Here's a sm
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://patiltukaram.github.io/QRcode/)
 
 ## My process
 Firstly I think about how to create it by own using box model. Added some HTML code (box identification) and then done styling. Each element in this code is creating one box. So start from bigger box and then style small elements. Take referance and help from MDN docs. Also seen some previous videos from my course on udemy. Stuks mainly in the design of responsivenes, took help of google. 
